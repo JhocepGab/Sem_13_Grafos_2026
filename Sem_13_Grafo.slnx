@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Biblio/Biblio.csproj" />
+  <Project Path="Sem_13_Grafo/Sem_13_Grafo.csproj" />
+</Solution>

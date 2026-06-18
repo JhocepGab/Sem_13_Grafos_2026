@@ -1,0 +1,10 @@
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Sem_13_Grafo\bin\Debug\Sem_13_Grafo.exe.config
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Sem_13_Grafo\bin\Debug\Sem_13_Grafo.exe
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Sem_13_Grafo\bin\Debug\Sem_13_Grafo.pdb
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Sem_13_Grafo\bin\Debug\Biblio.dll
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Sem_13_Grafo\bin\Debug\Biblio.pdb
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Sem_13_Grafo\obj\Debug\Sem_13_Grafo.csproj.AssemblyReference.cache
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Sem_13_Grafo\obj\Debug\Sem_13_Grafo.csproj.CoreCompileInputs.cache
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Sem_13_Grafo\obj\Debug\Sem_13_G.5DD78D71.Up2Date
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Sem_13_Grafo\obj\Debug\Sem_13_Grafo.exe
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Sem_13_Grafo\obj\Debug\Sem_13_Grafo.pdb

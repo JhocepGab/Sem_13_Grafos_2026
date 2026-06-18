@@ -1,0 +1,6 @@
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Biblio\bin\Debug\Biblio.dll
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Biblio\bin\Debug\Biblio.pdb
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Biblio\obj\Debug\Biblio.csproj.AssemblyReference.cache
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Biblio\obj\Debug\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Biblio\obj\Debug\Biblio.dll
+C:\Users\UCC20401\source\repos\Sem_13_Grafo\Biblio\obj\Debug\Biblio.pdb
