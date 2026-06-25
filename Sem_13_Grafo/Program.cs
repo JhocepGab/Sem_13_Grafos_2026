@@ -15,7 +15,9 @@ namespace Sem_13_Grafo
             g.mostrarlista();
             g.LlenarMatriz();
             g.mostrarMatriz();
+            Console.Readkey();
             g.CrearGrafo();
+            g.Recorrer(g.lista);
         }
     }
 }
